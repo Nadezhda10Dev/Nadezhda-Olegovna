@@ -48,3 +48,11 @@ footer {
       font-family: sans-serif;
       z-index: 1000;
 }
+.copy-box {
+      border: 1px solid #ccc;
+      padding: 10px;
+      display: inline-block;
+      cursor: pointer;
+      user-select: none;
+      font-family: sans-serif;
+}
